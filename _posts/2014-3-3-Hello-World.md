@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ways of communication: study on two explanation of immutability
+title: Ways of communication - study on two explanation of immutability
 ---
 From the DSCI 542 lecture, David Laing provided two examples of explanation of immutability in Python. 
 Below were my thoughts on the comparison:
